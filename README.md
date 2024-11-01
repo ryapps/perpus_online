@@ -1,7 +1,9 @@
 # Perpus_Online 📚
 
 **Perpus_Online** adalah aplikasi perpustakaan digital yang memungkinkan pengguna untuk mengelola dan melihat koleksi buku mereka secara online. Aplikasi ini menampilkan daftar buku yang dimiliki oleh pengguna, lengkap dengan detail informasi jumlah halaman dan penulis.
+
 ![Desain Aplikasi](assets/img/ss_perpus.jpg)
+
 ## Fitur Utama
 
 - **Daftar Buku**: Menampilkan koleksi buku yang dimiliki pengguna.
